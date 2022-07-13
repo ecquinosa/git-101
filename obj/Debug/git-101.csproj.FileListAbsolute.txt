@@ -1,0 +1,10 @@
+D:\WORK\Projects\git-101\bin\Debug\git-101.exe.config
+D:\WORK\Projects\git-101\bin\Debug\git-101.exe
+D:\WORK\Projects\git-101\bin\Debug\git-101.pdb
+D:\WORK\Projects\git-101\obj\Debug\git-101.csproj.AssemblyReference.cache
+D:\WORK\Projects\git-101\obj\Debug\git_101.Form1.resources
+D:\WORK\Projects\git-101\obj\Debug\git_101.Properties.Resources.resources
+D:\WORK\Projects\git-101\obj\Debug\git-101.csproj.GenerateResource.cache
+D:\WORK\Projects\git-101\obj\Debug\git-101.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\git-101\obj\Debug\git-101.exe
+D:\WORK\Projects\git-101\obj\Debug\git-101.pdb
