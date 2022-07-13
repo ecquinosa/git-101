@@ -26,5 +26,10 @@ namespace git_101
         {
             Console.Write("Test1");
         }
+
+        private void Test2()
+        {
+            Console.Write("Test2");
+        }
     }
 }
