@@ -21,15 +21,5 @@ namespace git_101
         {
 
         }
-
-        private void Test1()
-        {
-            Console.Write("Test1");
-        }
-
-        private void Test2()
-        {
-            Console.Write("Test2");
-        }
     }
 }
